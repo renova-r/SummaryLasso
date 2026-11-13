@@ -7,9 +7,9 @@
  */
 #include <R_ext/Lapack.h>
 #include <R_ext/Applic.h>
-#include <R_ext/PrtUtil.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include <math.h>
 #include <time.h>
 #include <R.h>

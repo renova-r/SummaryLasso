@@ -1,11 +1,13 @@
 Package: SummaryLasso
 Type: Package
 Title: Building Polygenic Risk Score Using GWAS Summary Statistics
-Version: 1.2.1
-Author: Ting-Huei Chen
+Version: 1.2.1.9001
+Author: Ting-Huei Chen [aut, cre]
 Maintainer: Ting-Huei Chen <tingstat22@gmail.com>
+Authors@R: person(given = "Ting-Huei", family = "Chen", role = c("aut", "cre"), email = "tingstat22@gmail.com")
 Depends: R(>= 3.5.0), gtools
 Description: Shrinkage estimator for polygenic risk prediction models based on summary statistics of genome-wide association studies.
+    Compatibility updates by Renova.
 License: GPL-3
 Packaged: 2019-11-11 15:52:02 UTC; ting-huei
 NeedsCompilation: yes
